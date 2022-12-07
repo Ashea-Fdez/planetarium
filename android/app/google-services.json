@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "247464758656",
+    "project_id": "planetarium2-38577",
+    "storage_bucket": "planetarium2-38577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247464758656:android:06ab32483c7358a244c565",
+        "android_client_info": {
+          "package_name": "com.mycompany.planetarium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247464758656-77sd2cu19ancc2mj516h1qhvgahe39fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.planetarium",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "247464758656-0pcaeulb7hn7cos0t0sgonbc1tdbt18v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-3uCcf5UkGi0hhm6vcDxSP_dUdo97yRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247464758656-0pcaeulb7hn7cos0t0sgonbc1tdbt18v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247464758656-gqinsuhnmckria4bl2jdcdhbarqs9ml0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.planetarium"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
